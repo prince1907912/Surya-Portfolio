@@ -374,6 +374,11 @@ section  .topic{
   color: #4070f4;
 }
 
+.icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
 
 /* Footer section CSS */
 
